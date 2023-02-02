@@ -16,7 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          plugin_gists: yes
           plugin_notable: yes
           plugin_people: yes
           plugin_people_types: followers
