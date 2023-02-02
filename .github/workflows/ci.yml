@@ -33,10 +33,6 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-snake.svg?palette=github-dark
-      - name: Deploy
-        uses: exuanbo/actions-deploy-gist@v1
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          file_path: github-snake.svg
-          file_type: binary
+          outputs: |
+              github-snake.svg
+              github-snake.svg?palette=github-dark
