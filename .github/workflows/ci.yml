@@ -15,7 +15,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
           plugin_notable: yes
+          plugin_followup: yes
+          plugin_sponsorships: yes
+          plugin_code: yes
           plugin_people: yes
           plugin_people_types: followers
           plugin_people_limit: 28
@@ -34,5 +38,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-              github-snake.svg
-              github-snake.svg?palette=github-dark
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+
+      - name: push github-snake.svg
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: yes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

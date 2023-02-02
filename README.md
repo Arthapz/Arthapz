@@ -1,5 +1,5 @@
 <div align="center">
-**Hello World! 👋**
+<b>Hello World! 👋</b>
 
 [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Arthapz%20&width=800&height=400)](https://github.com/Arthapz)
 
