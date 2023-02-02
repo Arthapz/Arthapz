@@ -1,3 +1,4 @@
+<div align="center">
 **Hello World! 👋**
 
 [![Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Arthapz%20&width=800&height=400)](https://github.com/Arthapz)
@@ -6,15 +7,10 @@ I'm Arthur Laurent, a French software and desktop developer. I program mainly in
 
 ![Profile views](https://komarev.com/ghpvc/?username=Arthapz&style=flat-square)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arthapz&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Arthapz's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arthapz&show_icons=true&theme=tokyonight&count_private=true&custom_title=Arthapz%27s%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Arthapz's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arthapz&layout=compact&show_icons=true&theme=tokyonight&custom_title=Arthapz%27s%20Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Snake Graph](/github-snake.svg)](https://github.com/Arthapz)
 
 [![Metrics](/github-metrics.svg)](https://github.com/Arthapz)
+</div>
 
 ### Technical Skills
 

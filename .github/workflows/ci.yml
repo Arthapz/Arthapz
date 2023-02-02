@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
           plugin_notable: yes
           plugin_people: yes
           plugin_people_types: followers
@@ -29,7 +28,7 @@ jobs:
           plugin_habits_from: 400
           plugin_habits_days: 30
           plugin_habits_facts: yes
-          config_timezone: Asia/Manila
+          config_timezone: Europe/Paris
       # snk
       - uses: Platane/snk@v2
         with:
