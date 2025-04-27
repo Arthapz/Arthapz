@@ -35,7 +35,7 @@ jobs:
           plugin_habits_facts: yes
           config_timezone: Europe/Paris
       # snk
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
