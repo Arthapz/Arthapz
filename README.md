@@ -18,5 +18,5 @@ I'm Arthur Laurent, a French software and desktop developer. I program mainly in
 
 ### Technical Skills
 
-- Operational System: `Linux`, `Windows`, `macOS`
-- Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Vim`, `VSCode`, `QtCreator`], `Nushell`
+- Operating System: `Linux`, `Windows`, `macOS`, `iOS`
+- Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Helix`, `Vim`, `VSCode`, `QtCreator`], `Nushell`
