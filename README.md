@@ -5,6 +5,8 @@
 
 I'm Arthur Laurent, a French software and desktop developer. I program mainly in C++ and Lua.
 
+Open for work :)
+
 ![Profile views](https://komarev.com/ghpvc/?username=Arthapz&style=flat-square)
 
 <picture>
@@ -20,3 +22,4 @@ I'm Arthur Laurent, a French software and desktop developer. I program mainly in
 
 - Operating System: `Linux`, `Windows`, `macOS`, `iOS`
 - Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Helix`, `Vim`, `VSCode`, `QtCreator`], `Nushell`
+
